@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="1f758b47">
+        <description>Created after removal of "OC List" from KTE</description>
+        <accepts>OC-List.html</accepts>
+    </rule>
+    <rule id="5c1dfbfd">
+        <description>Created after removal of "Aether" from KTE</description>
+        <accepts>Aether.html</accepts>
+    </rule>
+</rules>
