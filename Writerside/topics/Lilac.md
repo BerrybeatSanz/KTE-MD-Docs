@@ -1,4 +1,4 @@
-# Gympie
+# Lilac
 
 **Maintainer: Recluse**
 

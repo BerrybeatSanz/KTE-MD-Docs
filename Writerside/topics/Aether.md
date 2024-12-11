@@ -1,5 +1,9 @@
 # Aether
 
+**Maintainer: Ult**
+
+**FOREIGN**
+
 A Blue and Cyan Type Shork with Semi Long Cyan Hair, and wears a lot of blue clothing..
 He Likes to wear More Feminine Type Stuff, Even having White Earrings that use a Wind Symbol.
 He loves to wear certain types of dresses and big Hoodies.
@@ -33,15 +37,15 @@ Relations
 </tab>
 <tab id="sample" title="RP Sample">
 
-_Birds are Chirping all Around, Waterfalls were Flowing_
+`Birds are Chirping all Around, Waterfalls were Flowing`
 
-_You walk around to his Altar, You Tap the Middle of it and a Symbol of Wind appears_
+`You walk around to his Altar, You Tap the Middle of it and a Symbol of Wind appears`
 
-_You Call out his Name.. "Aether I call for your Help."_
+`You Call out his Name.. "Aether I call for your Help."`
 
-_The Birds Stop Chirping, and a Soft Humming was heard as the Image of Aether Appeared_
+`The Birds Stop Chirping, and a Soft Humming was heard as the Image of Aether Appeared`
 
-_You had an urge to... sing?_
+`You had an urge to... sing?`
 
 <br></br>
 
@@ -69,7 +73,7 @@ _"Deal!"_
 
 <br></br>
 
-_The Sudden Surge of Birds Chirping Spiked up and the Soft Humming Grew Louder_
+`The Sudden Surge of Birds Chirping Spiked up and the Soft Humming Grew Louder`
 
 <br></br>
 
@@ -87,7 +91,7 @@ _"That Sounds to Easy.. What the Catch..?"_
 
 <br></br>
 
-_The Lights Go Dark_
+`The Lights Go Dark`
 
 </tab>
 </tabs>
