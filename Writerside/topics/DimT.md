@@ -23,7 +23,7 @@ Aerial Dimensions
 : Aerial Dimensions are what this page is about, and see the TLDR for the summary on what they are.
 I might write something much lengthier here, but I don't feel like it as of 12/11/2024 (MM.DD.YYYY).
 
-## Format
+## Dimension Format
 
 `Dimension X-A of O`
 
@@ -31,7 +31,27 @@ Listed here are what the letters mean.
 
 #### X
 
-`X` is the dimension's [ODR](ODR.md) number, which usually isn't important except for a few notable ones.
+`X` is the dimension's [ODR](ODR.md) number, which usually isn't important except for a few notable ones. Each dimension also has a multiverse attached to it, more on that later.
+
+###### The notable ones.
+
+<tabs>
+<tab id="tfct" title="TFCT">
 
 {type="compact"}0
-: "Center Point", home to Khazingrad and 
+: "Center Point", home to Khazingrad and Kingdom `link needed`.
+
+1
+: Earth
+
+532
+: Undertale
+
+652
+: Kaiju Paradise
+
+</tab>
+<tab id="eot" title="EOT">
+
+</tab>
+</tabs>
