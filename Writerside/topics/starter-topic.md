@@ -22,4 +22,7 @@ Foundations also contains a lot of useful theoretical information, you might nee
 
 ## Main Links
 
-TBD
+[Github Repository](https://github.com/Interval0043/KTE-MD-Docs)
+[Discord Server](https://discord.gg/a33nea9b77)
+[Foundations](Foundations.md)
+[OC List](OC-List.md)
