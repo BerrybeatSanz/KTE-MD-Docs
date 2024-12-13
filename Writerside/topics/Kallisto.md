@@ -1,11 +1,14 @@
 # Kallisto
 
+<tldr>
+
 **Maintainer: Ult**
 
 **FOREIGN**
 
 Very Similar to Astro from Dandy’s World, Her face represents the Sun!
 Her color palette includes Yellow, White, Orangish-Yellow, Pink
+</tldr>
 
 <tabs>
 <tab id="information" title="General Information">

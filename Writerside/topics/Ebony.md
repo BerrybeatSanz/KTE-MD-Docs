@@ -1,10 +1,13 @@
 # Ebony
 
+<tldr>
+
 **Maintainer: Recluse**
 
 **EOT**
 
 A scarred black widow, is black with an hourglass mark on her abdomen.
+</tldr>
 
 <tabs>
 <tab id="information" title="General Information">

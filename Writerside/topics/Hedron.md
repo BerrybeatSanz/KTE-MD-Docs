@@ -5,24 +5,14 @@
 I know there's no TLDR.
 That's because all of that has been relegated to Part 1.
 
-## Author's Notes
+> You can make any Hedrons you want. But, they must have these in order to be accepted:
+> * Shell Documentation
+> * Revision
 
-Using the species is a bit complex, so here's the brief.
+> If you make any significant changes to your Hedron that goes against this page, use a section called *List of Deviations from Standard*.
+> Not including it may have your OC rejected.
+{style="warning"}
 
-You can make any Hedrons you want. But, they must have these in order to be accepted:
-
-* Shell Documentation
-* Revision
-
-Here's the full recommended list (not in order):
-
-* Appearance
-* Name
-* Gas Element
-* *List of Deviation from Standards*
-* **Revision**
-* **Shell Documentation**
-* Specialty
 
 ## Part 1: The Basics
 
@@ -56,3 +46,23 @@ Components can live anywhere on their body, can be just about anything, and when
 ### Section 0: Foreword
 
 Hold on, hold on. Before you continue, there are 3 revisions to the Hedron species.
+
+<tabs>
+<tab id="rev1" title="Revision 1">
+
+> The only Hedron OC I outright forbid is a Revision 1 Hedron.
+{style="warning"}
+
+The only revision 1 Hedron is Kepler. Things to note:
+
+* Shell is not made from metal, but some other matte hardened material.
+* Has no core
+* Has no inner gas
+
+</tab>
+<tab id="rev2" title="Revision 2">
+
+> These are by far the most common - I recommend using this if you want to make one.
+{style="note"}
+</tab>
+</tabs>

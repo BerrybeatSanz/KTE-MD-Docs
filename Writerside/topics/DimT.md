@@ -56,3 +56,11 @@ Listed here are what the letters mean.
 
 </tab>
 </tabs>
+
+#### A
+
+`A` is the dimension's Alternate Universe (AU) Identification (ID), or `AUID`.
+Do note that AUs and Dimensions are not equal.
+
+AU
+: A variation on a dimension. For example, `Dimension 532T` is Undertale, but `Dimension 532-1T`

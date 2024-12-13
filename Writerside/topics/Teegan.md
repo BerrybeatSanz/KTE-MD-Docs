@@ -1,6 +1,13 @@
 # Teegan
 
+<tldr>
+
+**Maintainer: Crazer**
+
+**TFCT (?)**
+
 TBD
+</tldr>
 
 <tabs>
 <tab id="information" title="General Information">

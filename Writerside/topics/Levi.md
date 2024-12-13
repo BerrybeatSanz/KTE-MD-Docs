@@ -1,6 +1,10 @@
 # Levi
 
+<tldr>
+
 **Maintainer: Ult**
+
+**TFCT**
 
 An All White Being Who Lost his Color Years Ago, Saving the Souls of the Lost was his job until he was tasked by his Creators. 
 Now He Lives with Hazzy's Creations.. 
@@ -8,6 +12,7 @@ The Ones He didn't release, He is also the Frisk to Locu!Tale
 
 He Wears Orange Clothing, Such as a Scarf, Jacket that isn't Zipped, and Long Sweat Pants.. 
 These Clothes Never seem to Break though..
+</tldr>
 
 <tabs>
 <tab id="information" title="General Information">

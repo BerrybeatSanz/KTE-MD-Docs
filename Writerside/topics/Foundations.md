@@ -9,6 +9,14 @@ They dictate how, when, and what you can use something for.
 > It is recommended that you start with Dimension Theory and Dimensional Limits.
 They give you the background of a lot of this server's ruling and formatting for channels and in-RP etiquette.
 
+> An author note will usually be this
+{style="note"}
+
+> or this
+{style="warning"}
+
+Look out for these notes, they appear every so often and are sometimes critical to understanding a topic or usage cases.
+
 ## Other Things
 
 If you want to make changes, go ahead!
