@@ -23,7 +23,7 @@ However, Spatial dimensions still exist, and I'm here to give you the full exten
 ### Cartesian
 
 Any regular spatial dimension will have that many numbers in the set that determines where a point is.
-Each point is an element of the set of all real numbers, which is literally anything except any number that is / paired with the [imaginary constant]().
+Each point is an element of the set of all real numbers, which is literally anything except any number that is / paired with the [imaginary unit](https://en.wikipedia.org/wiki/Imaginary_unit).
 
 * 2D is two, usually `(x, y)`.
 * 3D is three, usually `(x, y, z)`.
@@ -32,11 +32,7 @@ Each point is an element of the set of all real numbers, which is literally anyt
 ### Complex Plane
 
 The complex plane is the extension of these coordinate systems.
-Note that most regular planes have a single extension, but is still only considered the dimension that's the number of its real components.
+The dimensionality (quantity of dimensions) that a complex system has depends on how you think about it, but usually it's notated as 1D for a (x, y) [complex plane](https://en.wikipedia.org/wiki/Complex_plane).
+In this case, that's with respect to ("wrt") the set of all complex numbers. If it would be 2D, that's wrt to all real numbers.
 
-* A 1D complex plane is `(x, yi)`, but it's still one dimension.
-* 2D is `(x, y, zi)`.
-* 3D is `(x, y, z, wi)`.
-* Continue from there.
-
-i'll finish this later
+Complex numbers are of the form `z = x + yi`, and can be used in complex analysis.
