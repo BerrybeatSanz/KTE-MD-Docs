@@ -20,6 +20,13 @@
                 <toc-element topic="Protogen.md"/>
                 <toc-element topic="Sprinklekit.md"/>
             </toc-element>
+            <toc-element topic="Widespread-Species.md">
+                <toc-element topic="Arachnid.md"/>
+                <toc-element topic="Dinosaur.md"/>
+                <toc-element topic="Dragon.md"/>
+                <toc-element topic="Human.md"/>
+                <toc-element topic="Insect.md"/>
+            </toc-element>
             <toc-element topic="Theories.md">
                 <toc-element topic="DimT.md"/>
                 <toc-element topic="Format.md"/>
@@ -29,15 +36,8 @@
             <toc-element topic="Things.md">
                 <toc-element topic="ODR.md"/>
             </toc-element>
-            </toc-element>
-            <toc-element topic="Widespread-Species.md">
-                <toc-element topic="Arachnid.md"/>
-                <toc-element topic="Dinosaur.md"/>
-                <toc-element topic="Dragon.md"/>
-                <toc-element topic="Human.md"/>
-                <toc-element topic="Insect.md"/>
-            </toc-element>
         </toc-element>
+    </toc-element>
         <toc-element topic="OC-List.md">
             <toc-element topic="Aether.md"/>
             <toc-element topic="Coded.md"/>
