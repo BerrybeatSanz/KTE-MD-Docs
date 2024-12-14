@@ -64,17 +64,12 @@ Weight
         <td>A form closely resembling Sans from Undertale</td>
     </tr>
     <tr>
-       <td>
-  
-Amalgacode *Var. A*
-        </td>
+        <td>Amalgacode <i>Var. A</i></td>
         <td>2'8", Weight TBA</td>
         <td>A form based on the "Amalgamates". No Ultima, he's not ice cream. You can't eat him. I'm watching you.</td>
     </tr>
-       <td>
     <tr>
-Amalgacode *Var. B*
-        </td>
+        <td>Amalgacode <i>Var. B</i></td>
         <td>10'11", Weight TBA</td>
         <td>A much taller and more spooky version of the Amalgamate form. You still can't eat him Ult I AM WATCHING YOU.</td>
     </tr>
@@ -90,20 +85,21 @@ Amalgacode *Var. B*
     </tr>
 </table>
 </tab>
-<tab id="NatWorld_SH/V" title="S.T.H/Void>
+<tab id="NatWorld_SH/V" title="S.T.H/Void">
 
 * Mobian *Hedgehog*
 * Werehog
 * Void *Style A*
 * Void *Style B*
+
 </tab>
 <tab id="NatWorld_KP/TCS/SM" title="KP/TCS/Sprink.Mega">
 
 * Nightcrawler
 * Partcial
 * Sprinklekit
-
-<tab id="NatWorld_Ext." title=Extras>
+</tab>
+<tab id="NatWorld_Ext." title="Extras">
 
 * Among Us
 * Bat
