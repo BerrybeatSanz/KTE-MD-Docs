@@ -8,7 +8,6 @@
 
     <toc-element topic="starter-topic.md">
         <toc-element topic="Foundations.md">
-            <toc-element topic="BlueTest.md"/>
             <toc-element topic="History.md"/>
             <toc-element topic="Species.md">
                 <toc-element topic="Code-Shifter.md"/>

@@ -49,18 +49,15 @@ Also, some people may be missing. This is because they do not meet their own req
 <tab id="HM" title="Ult">
 
 **OCs**
-* Teegan
+* Aether
+* Kallisto
+* Levi
 
 **Species**
-* Entreos
-* Glitches
-* Sprinklekits
+* Frisks
+* Leiths
 </tab>
-</tabs>
-
-### Registered
-<tabs>
-<tab id="R_1" title="Blue">
+<tab id="M_1" title="Blue">
 
 **OCs**
 * Coded
@@ -68,7 +65,11 @@ Also, some people may be missing. This is because they do not meet their own req
 **Species**
 * Code-Shifters
 </tab>
-<tab id="R_2" title="Recluse">
+</tabs>
+
+### Registered
+<tabs>
+<tab id="R_1" title="Recluse">
 
 **OCs**
 * Ebony
