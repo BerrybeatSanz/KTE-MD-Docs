@@ -149,7 +149,8 @@ Weight
     <tr>
         <td>Among Us</td>
         <td>2'6", Weight TBA</td>
-        <td>“Sus. Very sus. Like. Extremely sus.” - Eierrudi <br></br> Yeah, Rudi. He is pretty sus.</td>
+        <td>“Sus. Very sus. Like. Extremely sus.” - Eierrudi
+        Yeah, Rudi. He is pretty sus.</td>
     </tr>
     <tr>
         <td>Bat</td>
@@ -196,6 +197,7 @@ Weight
 </tabs>
 
 <seealso>
-
-[Forms Slide](https://docs.google.com/presentation/d/1FA_0Wax6TaCDa4aAaRdN3WsSzEx0_NW4CM26TPP0ppc/edit#slide=id.g31a71e86583_0_11)
+    <category ref="external">
+        <a href="https://docs.google.com/presentation/d/1FA_0Wax6TaCDa4aAaRdN3WsSzEx0_NW4CM26TPP0ppc/edit#slide=id.g31a71e86583_0_11"> Forms Page</a>
+    </category>
 </seealso>
