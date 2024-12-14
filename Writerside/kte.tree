@@ -7,6 +7,20 @@
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md">
+        <toc-element topic="OC-List.md">
+            <toc-element topic="Aether.md"/>
+            <toc-element topic="Coded.md"/>
+            <toc-element topic="Ebony.md"/>
+            <toc-element topic="Gympie.md"/>
+            <toc-element topic="Helios.md"/>
+            <toc-element topic="Kallisto.md"/>
+            <toc-element topic="Levi.md"/>
+            <toc-element topic="Lilac.md"/>
+            <toc-element topic="Ruby.md"/>
+            <toc-element topic="Sapphire.md"/>
+            <toc-element topic="Teegan.md"/>
+            <toc-element topic="Viper.md"/>
+        </toc-element>
         <toc-element topic="Foundations.md">
             <toc-element topic="BlueTest.md"/>
             <toc-element topic="History.md"/>
@@ -39,18 +53,4 @@
             </toc-element>
         </toc-element>
     </toc-element>
-        <toc-element topic="OC-List.md">
-            <toc-element topic="Aether.md"/>
-            <toc-element topic="Coded.md"/>
-            <toc-element topic="Ebony.md"/>
-            <toc-element topic="Gympie.md"/>
-            <toc-element topic="Helios.md"/>
-            <toc-element topic="Kallisto.md"/>
-            <toc-element topic="Levi.md"/>
-            <toc-element topic="Lilac.md"/>
-            <toc-element topic="Ruby.md"/>
-            <toc-element topic="Sapphire.md"/>
-            <toc-element topic="Teegan.md"/>
-            <toc-element topic="Viper.md"/>
-        </toc-element>
 </instance-profile>
