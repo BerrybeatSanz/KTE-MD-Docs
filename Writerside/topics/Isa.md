@@ -34,6 +34,7 @@ Height
 
 Weight
 : 1228 Pounds
+
 </tab>
 <tab id="specifics" title="Hedron-Specific Information">
 
@@ -43,5 +44,18 @@ Weight
 Shell
 :
 * Color: Grayscale mixed with green and purple flowing accents.
+* Filter: Diffused
 * Status: Unflippable, mixed.
 * Attributes: Hardened
+
+Gas
+: Heterozygous mixture of Nickel, Boron, & Silicon
+
+</tab>
+</tabs>
+
+<seealso>
+    <category ref="refs">
+        <a href="Hedron.md">Hedrons</a>
+    </category>
+</seealso>
