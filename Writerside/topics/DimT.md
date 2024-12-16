@@ -26,7 +26,7 @@ I might write something much lengthier here, but I don't feel like it as of 12/1
 
 ## Dimension Format
 
-`Dimension X-A of O`
+`Dimension X-AO`
 
 Listed here are what the letters mean.
 
@@ -36,23 +36,32 @@ Listed here are what the letters mean.
 
 ###### The notable ones.
 
-<tabs>
-<tab id="tfct" title="TFCT">
+<tabs group="omniverse">
+<tab id="t1" title="TFCT" group-key="tfct">
 
-{type="compact"}0
+{type="compact"}0T
 : "Center Point", home to Khazingrad and Kingdom `link needed`.
 
-1
+1T
 : Earth
 
-532
+532T
 : Undertale
 
-652
+652T
 : Kaiju Paradise
 
+699T
+: The dimension that's home to IADR
+
 </tab>
-<tab id="eot" title="EOT">
+<tab id="e1" title="EOT" group-key="eot">
+
+{type="compact"}0E
+: EOT ver. of "Center Point"
+
+3E
+: Arborwood, home to 
 
 </tab>
 </tabs>
@@ -63,4 +72,5 @@ Listed here are what the letters mean.
 Do note that AUs and Dimensions are not equal.
 
 AU
-: A variation on a dimension. For example, `Dimension 532T` is Undertale, but `Dimension 532-1T`
+: A variation on a dimension. For example, `Dimension 532T` is Undertale, but `Dimension 532-1T` is Alpha!Tale.
+: The `!` is the indicator of most AUs.

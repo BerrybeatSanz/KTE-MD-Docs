@@ -1,7 +1,5 @@
 # Hypercomplex Space
 
-**Maintainer: Interval**
-
 <tldr>
 Hypercomplex space is represented with (i, j, k), and is the 3D full extension of the complex plane.
 I call it theoretical because something like this rarely exists.
@@ -10,10 +8,11 @@ Essentially, a lot of movement is messed up, rotation and straight movement are 
 If you like math, then read if you dare. But I'm not holding back.
 </tldr>
 
-## Author's Note
+**Maintainer: Interval**
 
-Use this however you please, just get it right.
+> Use this however you please, just get it right.
 I don't want to have to correct people, I really don't.
+{style="note"}
 
 ## Coordinate Systems
 
