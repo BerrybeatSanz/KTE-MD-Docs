@@ -49,7 +49,9 @@ Counterparts will always retain the knowledge of eachother, yet can have their o
 This is something to pay attention to when fighting across multiple spaces.
 {style="warning"}
 
-The second counterpart is the [Alterworld](AltW.md) counterpart, denoted by 
+The second counterpart is the [Alterworld](AltW.md) counterpart, denoted by `φ` in front of the entity's name.
 
+If any counterpart dies, all 3 dies.
+There is a convenience; all 3 would have to be in the same situation for this to realistically occur. If the δ counterpart is fighting, so is the regular one, and so is the φ counterpart.
 </tab>
 </tabs>

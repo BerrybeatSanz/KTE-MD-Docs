@@ -89,7 +89,9 @@ Things to note:
 </tab>
 </tabs>
 
-### Section 1: Shells
+### Section 1: The Main Four
+
+#### 1.1: Shells
 
 The shell of a Hedron is one of the most important components for its survival.
 Each shell is unique, no two are the same.
@@ -99,7 +101,7 @@ Each shell is unique, no two are the same.
 
 The shell is not metal on Revision 1, it's instead made of some hardened goo.
 What specific kind is unknown.
-It's related to whatever is in mult-652, or Kaiju Paradise, however it isn't exact, and does not contain transformative properties.
+It's related to whatever is in Dimension 652T, or Kaiju Paradise, however it isn't exact, and does not contain transformative properties.
 
 </tab>
 <tab id="rev21" title="Revision 2" group-key="rev2">
@@ -123,9 +125,59 @@ Status
 * Normal: weaker against KE, stronger against electricity
 * Reversed: rebound electricity, strong against KE
 
+Alterations
+: Some change to a shell, altering its properties.
+: These alterations are defined per-OC, no actual definitions are here.
+
 </tab>
 <tab id="rev31" title="Revision 3" group-key="rev3">
 
+Shells have three attributes.
+
+Color
+: The color that each triangle will contain.
+
+Primary Element
+: The element that a majority of the shell is made of.
+: Determines the primary properties of the shell.
+
+Alterations
+: Functionally different from Rev. 2 alterations.
+: Add secondary properties to the shell.
+
+> All properties must be defined per-OC, unless there are some universal ones that are commonly used.
+{style="note"}
+
+</tab>
+</tabs>
+
+#### 1.2: Inner Gas
+
+Inner gas is most commonly nickel, being stored within the Hedron.
+
+<tabs group="revision">
+<tab id="rev12" title="Revision 1" group-key="rev1">
+
+Nothing special of note. It's always nickel with no other properties.
+</tab>
+<tab id="rev22" title="Revision 2" group-key="rev2">
+
+The inner gas is nickel by default.
+However, the gasses themselves have 2 main attributes.
+
+Color
+: I really should not have to explain this from here on, should I?
+
+Element
+: Self-explanatory, the element that the gas is made of.
+: The element determines what the gas can do in 3 scenarios:
+: * In Isolation
+* Combined with Shell
+* Leaking from Shell
+: Again, must be defined per-OC.
+
+</tab>
+<tab id="rev32" title="Revision 3" group-key="rev3">
 
 
 </tab>

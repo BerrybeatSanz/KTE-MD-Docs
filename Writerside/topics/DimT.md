@@ -51,7 +51,7 @@ Listed here are what the letters mean.
 652T
 : Kaiju Paradise
 
-699T
+22493T
 : The dimension that's home to IADR
 
 </tab>
@@ -61,7 +61,7 @@ Listed here are what the letters mean.
 : EOT ver. of "Center Point"
 
 3E
-: Arborwood, home to 
+: Arborwood, home to a seemingly unending orange forest.
 
 </tab>
 </tabs>
@@ -74,3 +74,26 @@ Do note that AUs and Dimensions are not equal.
 AU
 : A variation on a dimension. For example, `Dimension 532T` is Undertale, but `Dimension 532-1T` is Alpha!Tale.
 : The `!` is the indicator of most AUs.
+
+#### O
+
+`O` is the identifier of which Omniverse it is a part of.
+
+Omniverse
+: A very large area, only two are known, which are TFCT (T) and EOT (E).
+
+## All the Terms
+
+There's a sort of hierarchy to dimensions, it goes like this:
+
+* Omniverses contain Hyperverses (H)
+* Hyperverses contain Multiverses (MV)
+* Multiverses contain AUs and Mainlines (AUID of 0)
+
+The prior notation is only applicable in Hyperverse 0 of either omniverse.
+
+## OC Jank
+
+OCs can differ across AUIDs, the biggest example is "Sans", of which each AU of MV-532 has their own version of it, some already presented before.
+These variations are referred to as Skews, of which follow the form of
+`SkewName!OriginalName(AUID)`, so Mirror, Nuclide's Skew 37, his full name would be `Mirror!Nuclide(37)`.
