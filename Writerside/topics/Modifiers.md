@@ -26,6 +26,7 @@ Slow (Turn-Based)
 
 Slow (Not Turn-Based)
 : Has a *base* 15% chance to force the target to perform generally less actions in their set. Unaffected by resistance modifiers. Cancelled out by Fast.
+
 </tab>
 <tab id="good" title="Good">
 
@@ -34,5 +35,6 @@ Fast (Turn-Based)
 
 Fast (Non Turn-Based)
 : Allows for the target to perform generally more actions in their set. Unaffected by modifiers. Cancelled out by Slow.
+
 </tab>
 </tabs>
