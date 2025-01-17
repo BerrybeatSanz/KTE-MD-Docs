@@ -367,9 +367,27 @@ That's the beauty of collaboration.
 
 #### iOS Edits {switcher-key="iPhone / iPad (iOS)"}
 
-    i still need to write this entire section, and i don't want to
-    can someone fill it out or something
-    or maybe i'll do it later
+<procedure>
+
+Beginning for a new file:
+
+<step>
+
+Go to `Writerside -> topics`
+</step>
+<step>
+
+Click the pad icon in the top right, and hit `New File`.
+Make sure the new file has a decent name, one that fits well.
+</step>
+<step>
+
+Add its entry into `kte.tree`
+</step>
+
+In order to edit a file, click on the file you want to edit, and begin typing in accordance to MD & SM rules.
+Typing on iOS is a little more difficult, but it's possible.
+</procedure>
 
 #### Windows Edits {switcher-key="Computer (Windows)"}
 
@@ -400,6 +418,28 @@ Documentation is present [here](https://www.jetbrains.com/help/writerside/discov
 The method to commits is a little different based on device, so once again we go to the whole top-of-the-page thing.
 
 #### iOS Commits {switcher-key="iPhone / iPad (iOS)"}
+
+<procedure>
+<step>
+Once you're done editing, hit the back arrow
+</step>
+<step>
+
+Click the part at the bottom bar that says `Status`
+</step>
+<step>
+
+Hit `Stage All`
+</step>
+<step>
+
+Hit `Commit`
+</step>
+
+PolyGit has a maximum of 3 pushes per day on the free side of things, so only push any commits that you have to.
+If you need any minor changes made and pushed, I or someone else could do that for you, if your pushes are up.
+
+</procedure>
 
 #### Windows Commits {switcher-key="Computer (Windows)"}
 
