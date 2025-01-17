@@ -59,5 +59,6 @@
         <toc-element topic="Ramblings.md">
             <toc-element topic="Modifiers.md"/>
         </toc-element>
+        <toc-element topic="Development.md"/>
     </toc-element>
 </instance-profile>
