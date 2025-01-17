@@ -79,51 +79,17 @@ You don't have to change the name, then just hit `Create Fork`.
 ### 1.2: Not-so-Universal
 
 Select which device you have at the top, and which method below.
-If you don't know what they mean, just go with anything labelled `GUI`.
+If you don't know what they mean, just go with anything labelled `Desktop GUI`.
 
 #### iOS Setup {switcher-key="iPhone / iPad (iOS)"}
 
-iOS has one good option: PolyGit.
 
-<procedure>
-
-<step>
-Open your App Store
-</step>
-<step>
-
-Search `PolyGit`
-</step>
-<step>
-
-Download it, it's the one with the rainbow + white `*` shaped icon.
-</step>
-<step>
-Sign in with your GitHub Account
-</step>
-<step>
-Clone the forked repository from earlier
-</step>
-<step>
-Also download the official GitHub mobile app and sign into that one.
-
-Reason: It works a lot better to do it that way for Pull Requests, I think. Either way, just have it in case you need it.
-</step>
-</procedure>
-
-I would use Working Copy or literally anything else, but I'm committed to not only safety but also keeping it free, so this is all we have.
 
 #### Windows Setup {switcher-key="Computer (Windows)"}
 
 <tabs>
 
 <tab id="windg1" title="Desktop GUI" group-key="dgui">
-
-Since this is the only method I'm familiar with, this is all I'll add.
-
-> If you want to add anything else, maybe some CLI instructions or other platforms, please do.
-> I only use GH desktop on Windows / Debian anyway.
-
 <procedure>
 <step>
 
@@ -154,7 +120,37 @@ Either press <shortcut>Ctrl+Shift+A</shortcut>, or click the button on the home 
 </procedure>
 
 </tab>
+<tab id="wing1" title="VS Code GUI">
+
+If you're against using GH desktop for whatever reason, then you can only use VS Code for editing the pages.
+I don't advise it, however, since commits and pushes are a little worse through VS Code.
+
+I'll finish this part later.
+
+</tab>
 </tabs>
+
+<!-- #### Debian / Debian-Based Setup {switcher-key="Computer (Debian / Debian-Based)}
+
+This is if you aren't against package systems.
+I know how linux users can be, and I'm only writing documentation for Debian Distributions.
+Sorry Arch users, but I don't care.
+I'm also only writing for a GUI.
+Someone else can handle the CLI instructions.
+
+<tabs>
+<tab id="debfg1" title = "Flatpak + APT GUI" group-key="debfg">
+<procedure>
+<step>
+
+Hit <shortcut>Ctrl+Alt+T</shortcut> to open a terminal  
+</step>
+<step>
+
+Type `sudo apt install code`
+</step>
+</tab>
+</tabs> -->
 
 ### 1.3: Congratulations!
 
@@ -367,7 +363,7 @@ That's the beauty of collaboration.
 
 #### iOS Edits {switcher-key="iPhone / iPad (iOS)"}
 
-<procedure>
+<!-- <procedure>
 
 Beginning for a new file:
 
@@ -387,7 +383,9 @@ Add its entry into `kte.tree`
 
 In order to edit a file, click on the file you want to edit, and begin typing in accordance to MD & SM rules.
 Typing on iOS is a little more difficult, but it's possible.
-</procedure>
+</procedure> -->
+
+I need to update this, it'll be fixed later. Figure it out yourself for now.
 
 #### Windows Edits {switcher-key="Computer (Windows)"}
 
@@ -419,7 +417,7 @@ The method to commits is a little different based on device, so once again we go
 
 #### iOS Commits {switcher-key="iPhone / iPad (iOS)"}
 
-<procedure>
+<!-- <procedure>
 <step>
 Once you're done editing, hit the back arrow
 </step>
@@ -439,7 +437,9 @@ Hit `Commit`
 PolyGit has a maximum of 3 pushes per day on the free side of things, so only push any commits that you have to.
 If you need any minor changes made and pushed, I or someone else could do that for you, if your pushes are up.
 
-</procedure>
+</procedure> -->
+
+Same as before. Figure it out.
 
 #### Windows Commits {switcher-key="Computer (Windows)"}
 
