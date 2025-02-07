@@ -8,33 +8,18 @@ Many of them exist to hurt, though.
 Most commonly, they appear as a random chance from an ability or something else.
 For example, I was hoping to have Clef's bugle give somewhere in the ballpark of a 30% chance to give Confusion to any enemy, it runs the chance for every enemy.
 
-## Ideas
+yeah i'll finish the statuses later
 
-Here's the list of some I have in mind:
+## Modifiers
+There are 3 kinds of modifiers: cycle, chance to apply, and chance to trigger.
+For example, if a move has a 40% chance to apply 3 turns of Confusion:
+* A -2 cycle modifier means it will only apply for 1 cycle
+* A +10% apply chance would make it 50%
+* A -5% trigger chance would make it 10% to trigger
 
-<tabs>
-<tab id="bad" title="Bad">
+these are useful as advanced weaknesses / resistances
+like a character weak to electricity could also have a +1 cycle on zap (which isn't paralysis) or something
 
-Confusion
-: Gives the target a *base* 15% chance to use a random ability. Only applies when using a non-physical attack. In a battle with 3 or more entities present total, the target is random excluding the target.
+or someone more mentally resilient could be -5% trigger on both confusion and dizzy
 
-Dizzy
-: Gives the target a *base* 20% chance to miss upon a physical attack action. That's it. When triggered with more attacks after it, it will cease all further actions. Does not apply to any defense actions.
-
-Slow (Turn-Based)
-: Has a *base* 10% chance to skip a target's attack action that turn. Unaffected by resistance modifiers. Cancelled out by Fast.
-
-Slow (Not Turn-Based)
-: Has a *base* 15% chance to force the target to perform generally less actions in their set. Unaffected by resistance modifiers. Cancelled out by Fast.
-
-</tab>
-<tab id="good" title="Good">
-
-Fast (Turn-Based)
-: Allows for the target to perform a second attack action in their turn. Unaffected by modifiers. Cancelled out by Slow.
-
-Fast (Non Turn-Based)
-: Allows for the target to perform generally more actions in their set. Unaffected by modifiers. Cancelled out by Slow.
-
-</tab>
-</tabs>
+honestly i'll expand it if it's got good reception
