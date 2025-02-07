@@ -14,4 +14,8 @@
         <description>Created after removal of "Aether" from KTE</description>
         <accepts>Aether.html</accepts>
     </rule>
+    <rule id="5761afd1">
+        <description>Created after removal of "Factions" from KTE</description>
+        <accepts>Factions.html</accepts>
+    </rule>
 </rules>
