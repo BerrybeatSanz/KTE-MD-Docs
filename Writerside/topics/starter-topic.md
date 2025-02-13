@@ -8,12 +8,5 @@ KTE is a community at heart, and a text-based RP system that attempts to encompa
 When you join an RP, just confirm with your partner that the levels work out.
 {style="note"}
 
-## Main Links
-
-[Github Repository](https://github.com/Interval0043/KTE-MD-Docs)
-
-[Discord Server](https://discord.gg/a33nea9b77)
-
-[Foundations](Foundations.md)
-
-[OC List](OC-List.md)
+Before diving in too deep, please read the Foundations section.
+While it isn't that up-to-date right now, it should still give you a bit of insight on how some things work.

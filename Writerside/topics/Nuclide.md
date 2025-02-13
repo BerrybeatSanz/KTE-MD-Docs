@@ -61,6 +61,11 @@ Radioactive Discharge
 : After 2 cycles of deliberately building up energy, he can release it all through a valve on his arm, targeting the enemy team.
 Gives 3 cycles of Irradiated to all entities in range (20 feet, $\frac{\pi}{4}$ radian flat forward), friendly or not.
 
+Expanded Tungsten Backup Reaction (ETBR)
+: Triggers the "Bulwark" form.
+See [](Nuclide-Bulwark.md).
+Can also be used to exit the form.
+
 </tab>
 
 <tab id="equip" title="Equipment">
@@ -87,10 +92,13 @@ Inhaled Accelerant Canisters
 : Once inserted into the nozzle and activated, gives him a 2 cycle High, and a 3 cycle Crash afterward.
 
 Rejack Stim
-: Only for other person's use, can be used to give stamina to a person who was previously incapacitated.
+: Can be used to give stamina to a person who was previously incapacitated.
 Does not work on dead people.
 Must be held for 2 consecutive cycles to bring them back, more can be done to increase potency.
 Usually only used when extraction is necessary.
+Can be performed once per person downed.
+: When used on himself, however, it increases his speed 3-fold and gives **Fast** for 5 cycles, but also immediately gives **Rapid Decay I**.
+Used immediately, only once per fight.
 
 </tab>
 <tab id="react" title="Reactives">

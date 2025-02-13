@@ -3,11 +3,20 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
     <build-profile instance="kte">
         <variables>
             <noindex-content>true</noindex-content>
+            <primary-color>#4A0606</primary-color>
+            <color-preset>vivid</color-preset>
+            <custom-css>custom.css</custom-css>
+
+            <download-title>See Repository</download-title>
+            <download-page>https://github.com/Interval0043/KTE-MD-Docs</download-page>
+            <showDownloadButton>true</showDownloadButton>
         </variables>
+        <footer>
+            <link href="https://discord.gg/a33nea9b77">Discord Server</link>
+        </footer>
     </build-profile>
 
 </buildprofiles>

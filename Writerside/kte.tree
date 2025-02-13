@@ -7,7 +7,7 @@
                  start-page="starter-topic.md">
 
     <toc-element topic="starter-topic.md">
-        <toc-element topic="OC-List.md">
+        <toc-element toc-title="OC-List.md">
             <toc-element toc-title="Blue's OCs">
                 <toc-element topic="Coded.md"/>
             </toc-element>
@@ -18,8 +18,14 @@
                 <toc-element topic="Helios.md"/>
             </toc-element>
             <toc-element toc-title="Interval's OCs">
-                <toc-element topic="Nuclide.md"/>
+                <toc-element topic="Clef.md"/>
+                <toc-element topic="Eiro.md"/>
                 <toc-element topic="Isa.md"/>
+                <toc-element topic="Mirror.md"/>
+                <toc-element topic="Nuclide.md">
+                    <toc-element topic="Nuclide-Bulwark.md"/>
+                </toc-element>
+                <toc-element topic="Serie.md"/>
             </toc-element>
             <toc-element toc-title="Recluse's OCs">
                 <toc-element topic="Ebony.md"/>
@@ -67,8 +73,11 @@
                 <toc-element topic="ODR.md"/>
             </toc-element>
         </toc-element>
-        <toc-element topic="Ramblings.md">
-            <toc-element topic="Modifiers.md"/>
+        <toc-element toc-title="Combat Section">
+
+            <toc-element topic="Turn-Based-Introduction.md"/>
+            <toc-element topic="What-if-there-s-more-than-two-people.md"/>
+            <toc-element topic="Statuses-Modifiers.md"/>
         </toc-element>
         <toc-element topic="Development.md"/>
     </toc-element>
