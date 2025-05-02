@@ -1,6 +1,8 @@
 # Nuclide
 
-## Housekeeping
+**"Support is on standby. Your call."**
+
+## Overview
 
 Nuclide is a Manifold, standing at 5'11", made from Darmsdadtium-237.
 He often wears full-body white and teal PPE, including full-face respirator, to block 99.95% of radiation output.
@@ -52,10 +54,12 @@ This usually goes for all of my OCs, so keep an eye.
 These are the equivalent of what others consider "abilities", just as their own category.
 
 Guard
-: If possible, blocks with his arms. Reduces incoming physical damage for at most 2 attacks per defense by 10%.
+: If possible, blocks with his arms.
+Reduces incoming physical damage for at most 2 attacks per defense by 10%.
 
 Shieldguard
-: Rapidly deploys his shield to counter an enemy. Has a 50% chance of succeding, blocking 30% of damage and rebounding 5%, but instantly collapsing the shield, starting the cooldown +1 cycle added on; the other 50% is to recoil and give Nuclide *Dizzy*.
+: Rapidly deploys his shield to counter an enemy.
+Has a 50% chance of succeding, blocking 30% of damage and rebounding 5%, but instantly collapsing the shield, starting the cooldown +1 cycle added on; the other 50% is to recoil and give Nuclide *Dizzy*.
 
 Radioactive Discharge
 : After 2 cycles of deliberately building up energy, he can release it all through a valve on his arm, targeting the enemy team.
@@ -65,6 +69,13 @@ Expanded Tungsten Backup Reaction (ETBR)
 : Triggers the "Bulwark" form.
 See [](Nuclide-Bulwark.md).
 Can also be used to exit the form.
+
+Borrow
+: Allows him to reach into a portal, grabbing the gear from any of the following list:
+: Isa
+: Mirror
+: Eiro
+: All of the gear will have significant changes made to them, each of which will have their changes listed on 
 
 </tab>
 

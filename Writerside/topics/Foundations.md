@@ -1,30 +1,24 @@
 # Foundations
 
-This is all of the preliminary / really really boring information that sometimes you have to read, sometimes you don't.
-It's entirely your choice if you want to read this, but you may want to give it a skim to understand some things.
+Welcome, all you new people or people who need a refresher.
+This is the foundations section, a place to read and learn the ins-and-outs of KTE.
 
-Pay attention to the category names, maintainers, and especially the author's notes.
-They dictate how, when, and what you can use something for.
+## For the new people
 
-> It is recommended that you start with Dimension Theory and Dimensional Limits.
-They give you the background of a lot of this server's ruling and formatting for channels and in-RP etiquette.
+Articles are meant to be read in order, from top to bottom.
+The purpose is solely to provide information; more complex topics have their own sections involved.
+I recommend you start with the Introduction section.
 
-> An author note will usually be this
-{style="note"}
+## For the people who've already been here
 
-> or this
-{style="warning"}
+Pick a section, find what you need to brush up on, and skim / read it.
+By the time everything's ready, it should all be here.
 
-Look out for these notes, they appear every so often and are sometimes critical to understanding a topic or usage cases.
+## Notes
 
-## Other Things
+> This style is for anything technical, like math or overly complex topics.
 
-If you want to make changes, go ahead!
-This is a public GitHub repository, go on and clone it and do whatever.
-Do note that this is Markdown and a dash of Semantic Markup, so go to the
-[Jetbrains Writerside](https://www.jetbrains.com/help/writerside/discover-writerside.html)
-documentation for all of the specifics.
+> These are for important considerations, that the reader should know.
 
-> You don't need Writerside to make edits, mostly because it's free now, but will be paid after it's done being in its Early Access Program stage.
-Use any editor that supports markdown that you like, just note that previews won't work as good as they usually do.
-{style="note"}
+> These are things that shouldn't be broken, such as rules.
+Or, common mistakes.
