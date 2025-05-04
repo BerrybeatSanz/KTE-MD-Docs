@@ -71,6 +71,8 @@
             </toc-element>
             <toc-element topic="Combat.md">
                 <toc-element topic="Basics-3-Main-Types.md"/>
+                <toc-element topic="Extra-Situations.md"/>
+                <toc-element topic="Statuses-and-Modifiers.md"/>
             </toc-element>
         </toc-element>
         <toc-element topic="Development.md"/>

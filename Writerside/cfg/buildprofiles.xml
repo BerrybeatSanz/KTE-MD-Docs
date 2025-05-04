@@ -6,16 +6,16 @@
     <build-profile instance="kte">
         <variables>
             <noindex-content>true</noindex-content>
-            <primary-color>#4A0606</primary-color>
+            <primary-color>#920D0D</primary-color>
             <color-preset>vivid</color-preset>
             <custom-css>custom.css</custom-css>
 
-            <download-title>See Repository</download-title>
-            <download-page>https://github.com/Interval0043/KTE-MD-Docs</download-page>
+            <download-title>Discord Server</download-title>
+            <download-page>https://discord.gg/a33nea9b77</download-page>
             <showDownloadButton>true</showDownloadButton>
         </variables>
         <footer>
-            <link href="https://discord.gg/a33nea9b77">Discord Server</link>
+            <link href="https://github.com/Interval0043/KTE-MD-Docs">Repository</link>
         </footer>
     </build-profile>
 

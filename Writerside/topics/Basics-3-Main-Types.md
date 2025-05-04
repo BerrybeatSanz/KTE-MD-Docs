@@ -40,7 +40,34 @@ Attack, on the other hand, is meant to throw out attacks toward the enemy and gi
 This means telegraphing to the other user where the attack *would* hit, not if it ever actually does.
 Focus on intended target but eliminate any "playing as the enemy", so to speak.
 
-#### "Health"
+##### "Health"
 
 If I ever say "Health" in reference to a Normal-type battle, it is really a sort of stamina-esque mechanic.
 Both opponents need to be aware of each OC's limits, and understand when they should go down, out, or dead in some cases.
+
+##### Going First
+
+To decide who goes first, either it's in agreement between the parties out of character, OR it's based on relative speed.
+Relative speed isn't concrete; it's just who's "faster".
+What that means under a rigorous definition is up to you.
+
+##### First Strikes
+
+A first strike is just that; you get the jump on your opponent.
+Instead of actually being an attack, it's considered an Advantage state, where the striker is GUARANTEED to go first.
+
+### Lenient
+
+The Lenient system has quite a few changes from the Normal system, which will be summarized in this list of bullet points.
+
+* Concrete phases are gone. Just submit a message; it's fine.
+* The one-message limit is gone. Submit as many as you like, HOWEVER:
+  * If an attack hinges on an enemy's reaction, wait to send any more messages.
+* Counteracting enemies is a bit more complex, as the base counteractions that normally happen in the Normal system may not occur as cleanly here.
+* It's definitely rougher; more built for off-the-cuff battles rather than ones that were planned or that have proper entries.
+
+## Conclusion
+
+That's really it.
+While there may be some missing, that will be added later.
+For right now, this base system will work well for most combat situations, and I'd like to see how it pans out.

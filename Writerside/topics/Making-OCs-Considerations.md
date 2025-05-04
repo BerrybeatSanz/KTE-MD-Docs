@@ -16,3 +16,7 @@ While functionally, they can exist, it doesn't make sense.
 
 For example, a character primarily dealing with fire shouldn't have a resistance to water,
 because it doesn't make sense.
+
+## More?
+
+This is much less a rigid article; if I have more to ramble about, I will.
