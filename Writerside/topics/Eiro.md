@@ -1,3 +1,0 @@
-# Eiro
-
-## Overview

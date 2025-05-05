@@ -1,3 +1,0 @@
-# Dragon
-
-Start typing here...

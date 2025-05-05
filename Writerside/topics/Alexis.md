@@ -1,3 +1,0 @@
-# Alexis
-
-Start typing here...

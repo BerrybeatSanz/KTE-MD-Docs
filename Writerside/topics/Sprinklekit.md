@@ -1,3 +1,0 @@
-# Sprinklekit
-
-Start typing here...

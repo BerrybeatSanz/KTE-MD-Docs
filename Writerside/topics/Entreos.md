@@ -1,3 +1,0 @@
-# Entreos
-
-Start typing here...

@@ -1,3 +1,0 @@
-# Atlas
-
-Start typing here...

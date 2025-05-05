@@ -8,65 +8,12 @@
 
     <toc-element topic="starter-topic.md">
         <toc-element toc-title="OC List">
-            <toc-element topic="Widespread-Species.md">
-                <toc-element topic="Arachnid.md"/>
-                <toc-element topic="Dinosaur.md"/>
-                <toc-element topic="Dragon.md"/>
-                <toc-element topic="Human.md"/>
-                <toc-element topic="Insect.md"/>
-            </toc-element>
-            <toc-element topic="Species.md">
-                <toc-element topic="Code-Shifter.md"/>
-                <toc-element topic="Entreos.md"/>
-                <toc-element topic="Frisk.md"/>
-                <toc-element topic="Glitch.md"/>
-                <toc-element topic="Hedron.md"/>
-                <toc-element topic="Leith.md"/>
-                <toc-element topic="Manifold.md"/>
-                <toc-element topic="Protogen.md"/>
-                <toc-element topic="Sprinklekit.md"/>
-            </toc-element>
-            <toc-element toc-title="Blue's OCs">
-                <toc-element topic="Coded.md"/>
-            </toc-element>
-            <toc-element toc-title="Crazer's OCs">
-                <toc-element topic="Teegan.md"/>
-            </toc-element>
-            <toc-element toc-title="Devil's OCs">
-
-                <toc-element topic="Alexis.md"/>
-            </toc-element>
-            <toc-element toc-title="Interval's OCs">
-                <toc-element topic="Clef.md"/>
-                <toc-element topic="Eiro.md"/>
-                <toc-element topic="Isa.md"/>
-                <toc-element topic="Mirror.md"/>
-                <toc-element topic="Nuclide.md">
-                    <toc-element topic="Nuclide-Bulwark.md"/>
-                </toc-element>
-                <toc-element topic="Serie.md"/>
-            </toc-element>
-            <toc-element toc-title="Recluse's OCs">
-                <toc-element topic="Ebony.md"/>
-                <toc-element topic="Gympie.md"/>
-                <toc-element topic="Lilac.md"/>
-                <toc-element topic="Ruby.md"/>
-                <toc-element topic="Sapphire.md"/>
-                <toc-element topic="Viper.md"/>
-            </toc-element>
-            <toc-element toc-title="Redwolf's OCs">
-
-                <toc-element topic="Atlas.md"/>
-            </toc-element>
-            <toc-element toc-title="Ult's OCs">
-                <toc-element topic="Aether.md"/>
-                <toc-element topic="Kallisto.md"/>
-                <toc-element topic="Levi.md"/>
-            </toc-element>
+            <toc-element topic="Species-Specifications.md"/>
         </toc-element>
         <toc-element topic="Foundations.md">
             <toc-element topic="Introduction-What-s-going-on.md">
                 <toc-element topic="Dimensions.md"/>
+                <toc-element topic="Dimensional-Limits.md"/>
                 <toc-element topic="Making-OCs-Considerations.md"/>
             </toc-element>
             <toc-element topic="Combat.md">

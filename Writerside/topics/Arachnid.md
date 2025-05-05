@@ -1,3 +1,0 @@
-# Arachnid
-
-Start typing here...

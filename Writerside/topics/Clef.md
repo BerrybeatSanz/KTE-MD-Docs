@@ -1,3 +1,0 @@
-# Clef
-
-Start typing here...

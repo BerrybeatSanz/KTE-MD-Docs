@@ -1,3 +1,0 @@
-# Leith
-
-Start typing here...

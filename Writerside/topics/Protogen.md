@@ -1,3 +1,0 @@
-# Protogen
-
-Start typing here...

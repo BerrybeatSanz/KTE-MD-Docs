@@ -1,3 +1,0 @@
-# Glitch
-
-Start typing here...

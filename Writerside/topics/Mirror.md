@@ -1,3 +1,0 @@
-# Mirror
-
-Start typing here...

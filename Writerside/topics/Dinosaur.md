@@ -1,3 +1,0 @@
-# Dinosaur
-
-Start typing here...

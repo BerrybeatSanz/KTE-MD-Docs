@@ -18,4 +18,148 @@
         <description>Created after removal of "Factions" from KTE</description>
         <accepts>Factions.html</accepts>
     </rule>
+    <rule id="534191b4">
+        <description>Created after removal of "Arachnid" from KTE</description>
+        <accepts>Arachnid.html</accepts>
+    </rule>
+    <rule id="6889c6e4">
+        <description>Created after removal of "Dinosaur" from KTE</description>
+        <accepts>Dinosaur.html</accepts>
+    </rule>
+    <rule id="4b5799">
+        <description>Created after removal of "Dragon" from KTE</description>
+        <accepts>Dragon.html</accepts>
+    </rule>
+    <rule id="7eff6b9c">
+        <description>Created after removal of "Human" from KTE</description>
+        <accepts>Human.html</accepts>
+    </rule>
+    <rule id="41f15611">
+        <description>Created after removal of "Insect" from KTE</description>
+        <accepts>Insect.html</accepts>
+    </rule>
+    <rule id="6011d673">
+        <description>Created after removal of "Widespread Species" from KTE</description>
+        <accepts>Widespread-Species.html</accepts>
+    </rule>
+    <rule id="6964cc88">
+        <description>Created after removal of "Code-Shifter" from KTE</description>
+        <accepts>Code-Shifter.html</accepts>
+    </rule>
+    <rule id="1b5fb7fc">
+        <description>Created after removal of "Entreos" from KTE</description>
+        <accepts>Entreos.html</accepts>
+    </rule>
+    <rule id="5e35e5da">
+        <description>Created after removal of "Frisk" from KTE</description>
+        <accepts>Frisk.html</accepts>
+    </rule>
+    <rule id="7eb504f6">
+        <description>Created after removal of "Glitch" from KTE</description>
+        <accepts>Glitch.html</accepts>
+    </rule>
+    <rule id="71607fbc">
+        <description>Created after removal of "Hedrons" from KTE</description>
+        <accepts>Hedron.html</accepts>
+    </rule>
+    <rule id="12bc7147">
+        <description>Created after removal of "Leith" from KTE</description>
+        <accepts>Leith.html</accepts>
+    </rule>
+    <rule id="63aa11d5">
+        <description>Created after removal of "Manifolds" from KTE</description>
+        <accepts>Manifold.html</accepts>
+    </rule>
+    <rule id="3c3ac1ca">
+        <description>Created after removal of "Protogen" from KTE</description>
+        <accepts>Protogen.html</accepts>
+    </rule>
+    <rule id="358a855">
+        <description>Created after removal of "Sprinklekit" from KTE</description>
+        <accepts>Sprinklekit.html</accepts>
+    </rule>
+    <rule id="26be22">
+        <description>Created after removal of "Species" from KTE</description>
+        <accepts>Species.html</accepts>
+    </rule>
+    <rule id="65a9b32">
+        <description>Created after removal of "Atlas" from KTE</description>
+        <accepts>Atlas.html</accepts>
+    </rule>
+    <rule id="2da42a0">
+        <description>Created after removal of "Ebony" from KTE</description>
+        <accepts>Ebony.html</accepts>
+    </rule>
+    <rule id="7813ace4">
+        <description>Created after removal of "Gympie" from KTE</description>
+        <accepts>Gympie.html</accepts>
+    </rule>
+    <rule id="5c751846">
+        <description>Created after removal of "Lilac" from KTE</description>
+        <accepts>Lilac.html</accepts>
+    </rule>
+    <rule id="ecf05d3">
+        <description>Created after removal of "Ruby" from KTE</description>
+        <accepts>Ruby.html</accepts>
+    </rule>
+    <rule id="4ee2f5cf">
+        <description>Created after removal of "Sapphire" from KTE</description>
+        <accepts>Sapphire.html</accepts>
+    </rule>
+    <rule id="3c505dd0">
+        <description>Created after removal of "Viper" from KTE</description>
+        <accepts>Viper.html</accepts>
+    </rule>
+    <rule id="8d45aff">
+        <description>Created after removal of "Aether" from KTE</description>
+        <accepts>Aether.html</accepts>
+    </rule>
+    <rule id="2ff20ad7">
+        <description>Created after removal of "Kallisto" from KTE</description>
+        <accepts>Kallisto.html</accepts>
+    </rule>
+    <rule id="717b97d">
+        <description>Created after removal of "Levi" from KTE</description>
+        <accepts>Levi.html</accepts>
+    </rule>
+    <rule id="4a702627">
+        <description>Created after removal of "Clef" from KTE</description>
+        <accepts>Clef.html</accepts>
+    </rule>
+    <rule id="5df189cd">
+        <description>Created after removal of "Eiro" from KTE</description>
+        <accepts>Eiro.html</accepts>
+    </rule>
+    <rule id="464d20a0">
+        <description>Created after removal of "Isa" from KTE</description>
+        <accepts>Isa.html</accepts>
+    </rule>
+    <rule id="661926bb">
+        <description>Created after removal of "Mirror" from KTE</description>
+        <accepts>Mirror.html</accepts>
+    </rule>
+    <rule id="631ec0d">
+        <description>Created after removal of "Nuclide" from KTE</description>
+        <accepts>Nuclide.html</accepts>
+    </rule>
+    <rule id="1552c33a">
+        <description>Created after removal of "Nuclide: Bulwark" from KTE</description>
+        <accepts>Nuclide-Bulwark.html</accepts>
+    </rule>
+    <rule id="35e776e6">
+        <description>Created after removal of "Serie" from KTE</description>
+        <accepts>Serie.html</accepts>
+    </rule>
+    <rule id="6559d71">
+        <description>Created after removal of "Alexis" from KTE</description>
+        <accepts>Alexis.html</accepts>
+    </rule>
+    <rule id="435c238b">
+        <description>Created after removal of "Teegan" from KTE</description>
+        <accepts>Teegan.html</accepts>
+    </rule>
+    <rule id="72997dcf">
+        <description>Created after removal of "Coded" from KTE</description>
+        <accepts>Coded.html</accepts>
+    </rule>
 </rules>

@@ -1,3 +1,0 @@
-# Serie
-
-Start typing here...
