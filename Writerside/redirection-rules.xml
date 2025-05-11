@@ -162,4 +162,12 @@
         <description>Created after removal of "Coded" from KTE</description>
         <accepts>Coded.html</accepts>
     </rule>
+    <rule id="89217bb">
+        <description>Created after removal of "Crazer" from KTE</description>
+        <accepts>Crazer.html</accepts>
+    </rule>
+    <rule id="e03b6a9">
+        <description>Created after removal of "Ult" from KTE</description>
+        <accepts>Ult.html</accepts>
+    </rule>
 </rules>
