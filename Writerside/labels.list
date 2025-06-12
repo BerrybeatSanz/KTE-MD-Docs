@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE labels SYSTEM "https://resources.jetbrains.com/writerside/1.0/labels-list.dtd">
+<labels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/labels.xsd">
+    <!-- Character Series Labels -->
+    <primary-label id="nomad" short-name="NS" name="Nomad">
+        Nomad Series
+    </primary-label>
+    <primary-label id="legacy" short-name="LS" name="Legacy">
+        Legacy Series
+    </primary-label>
+    <primary-label id="impart" short-name="IS" name="Impartial">
+        Impartial Series
+    </primary-label>
+    
+    <!-- Secondary Character Labels -->
+    <secondary-label id="new" name="New"></secondary-label>
+    <secondary-label id="rework" name="Reworked"></secondary-label>
+    <secondary-label id="return" name="Returning"></secondary-label>
+</labels>

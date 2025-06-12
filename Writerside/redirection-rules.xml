@@ -170,4 +170,16 @@
         <description>Created after removal of "Ult" from KTE</description>
         <accepts>Ult.html</accepts>
     </rule>
+    <rule id="1c9e19fb">
+        <description>Created after removal of "Integrand" from KTE</description>
+        <accepts>Integrand.html</accepts>
+    </rule>
+    <rule id="6bf8b484">
+        <description>Created after removal of "Lambda" from KTE</description>
+        <accepts>Lambda.html</accepts>
+    </rule>
+    <rule id="15b13d61">
+        <description>Created after removal of "Nuclide" from KTE</description>
+        <accepts>Nuclide.html</accepts>
+    </rule>
 </rules>
