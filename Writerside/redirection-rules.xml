@@ -182,4 +182,8 @@
         <description>Created after removal of "Nuclide" from KTE</description>
         <accepts>Nuclide.html</accepts>
     </rule>
+    <rule id="1ba5a3db">
+        <description>Created after removal of "Mirror" from KTE</description>
+        <accepts>Mirror.html</accepts>
+    </rule>
 </rules>

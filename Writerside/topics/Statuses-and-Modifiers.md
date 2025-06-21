@@ -60,7 +60,7 @@ Here's one massive list, whether they're good or bad is up to you.
 
 | Status    | Default Affliction Rate    | Effect                                                                                                                 |
 |-----------|----------------------------|------------------------------------------------------------------------------------------------------------------------|
-| Burn      | 3 Cycles, 100% Trigger     | Deal $\dfrac{100}{20-\log_{1.16}(A)}$ percent of current health to target.                                             |
+| Burn      | 3 Cycles, 100% Trigger     | Causes lingering burns to plague the affected, rebounding slight damage per physical hit dished out.                   |
 | Confusion | 3 Cycles, $10+2A$% Trigger | Will choose a random ability within scope to use upon trigger. Does not activate with physical attacks.                |
 | Dizzy     | 3 Cycles, $10+A$% Trigger  | Will have a set chance for a physical attack to miss. Future attacks in a chain will not be executed, new chains will. |
 

@@ -16,6 +16,7 @@
             <toc-element toc-title="Crazer"/>
             <toc-element toc-title="Devil"/>
             <toc-element toc-title="Interval">
+                <toc-element topic="Eiro.md"/>
             </toc-element>
             <toc-element toc-title="Recluse"/>
             <toc-element toc-title="Redwolf">
